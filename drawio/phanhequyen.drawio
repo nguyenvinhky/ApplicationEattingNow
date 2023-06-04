@@ -1,0 +1,46 @@
+<mxfile host="Electron" modified="2023-04-18T16:16:43.112Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="NF4GTUL5Sa2snFmI7FTv" version="21.1.2" type="device">
+  <diagram name="Page-1" id="AlAISzgr1Dycff_4R30g">
+    <mxGraphModel dx="1036" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qaQloM8EiSdsyy4Aa4rk-2" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;fontStyle=1;strokeWidth=4;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="80" as="sourcePoint" />
+            <mxPoint x="840" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qaQloM8EiSdsyy4Aa4rk-3" value="Quyền" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=16;fontStyle=1" connectable="0" vertex="1" parent="qaQloM8EiSdsyy4Aa4rk-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qaQloM8EiSdsyy4Aa4rk-4" value="Cao" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;fontSize=16;fontStyle=1" connectable="0" vertex="1" parent="qaQloM8EiSdsyy4Aa4rk-2">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="2" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qaQloM8EiSdsyy4Aa4rk-5" value="Thấp" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;fontSize=16;fontStyle=1" connectable="0" vertex="1" parent="qaQloM8EiSdsyy4Aa4rk-2">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-21" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qaQloM8EiSdsyy4Aa4rk-6" value="Quản trị viên" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="80" y="100" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qaQloM8EiSdsyy4Aa4rk-7" value="Bác sĩ" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="240" y="100" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qaQloM8EiSdsyy4Aa4rk-8" value="Nhân viên y tế" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="400" y="100" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qaQloM8EiSdsyy4Aa4rk-10" value="Người thân" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="560" y="100" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qaQloM8EiSdsyy4Aa4rk-11" value="Bệnh nhân" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="720" y="100" width="120" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
